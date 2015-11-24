@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	padding: 30px 30px;
+}
+
+h1{
+	display: block;
+	border-bottom: 2px solid grey;
+}
+
+h4{
+	display: inline-block;
+}
+
+.notes{
+	width: 400px;
+	margin: 20px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid grey;
+}
+
+form{
+	display: inline-block;
+	vertical-align: top;
+}
+
+form input{
+	margin-bottom: 10px;
+}
+
+.deleteForm{
+	width: 50px;
+}
+
+#newNoteForm{
+	margin-top: 10px;
+}
+
+.updateForm{
+	display: block;
+}
+
+.description{
+	border: 2px solid black;
+	width: 200px;
+	height: 150px;
+}
